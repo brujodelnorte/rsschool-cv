@@ -1,7 +1,7 @@
 # Siarhei Ladorski
 ### Fullstack JS Developer
 
-![avatar](./avatar.jpg)
+<img src="./avatar.jpg" alt="avatar" width="200" height="200" style="object-fit: cover;">
 
 ---
 
@@ -90,4 +90,4 @@ function boolToWord( bool ){
 
 ---
 
-© 2026 [GitHub Profile](https://github.com/brujodelnorte) | [![RS School Logo](https://rs.school/courses/javascript)](./rs-school-logo.svg)
+© 2026 [GitHub Profile](https://github.com/brujodelnorte) | [![RS School Logo](./rs-school-logo.svg)](https://rs.school/courses/javascript)
