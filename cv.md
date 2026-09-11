@@ -90,4 +90,6 @@ function boolToWord( bool ){
 
 ---
 
-© 2026 [GitHub Profile](https://github.com/brujodelnorte) | [![RS School Logo](./rs-school-logo.svg)](https://rs.school/courses/javascript)
+© 2026 [GitHub Profile](https://github.com/brujodelnorte) | <a href="https://rs.school/courses/javascript">
+  <img src="./rs-school-logo.svg" alt="RS School Logo" width="100">
+</a>
